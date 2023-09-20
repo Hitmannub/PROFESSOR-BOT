@@ -1,9 +1,9 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "Imedia filter",
     "description": "The Telegram Autofilter Bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "keywords": ["Telegram", "auto-filter", "iMedia"],
+    "repository": "https://github.com/Hitmanjod/PROFESSOR-BOT",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
@@ -32,11 +32,11 @@
         },
         "SHORT_API": {
             "description": "Api Key Of shortner You Use.",
-            "required": false
+            "required": true
         },
         "SHORT_URL": {
             "description": "Url of shortner site you use.",
-            "required": false
+            "required": true
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
@@ -112,7 +112,7 @@
         "FORCE_SUB_TEXT": {
             "description": "custom force sub text (use ** = bold / use ``=  mono)",
             "value": "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ",
-            "required": false
+            "required": true
         },
         "AUTH_GROUPS": {
             "description": "Group Id. Only work a specific group/ your bot is public use? please just Skip this",
