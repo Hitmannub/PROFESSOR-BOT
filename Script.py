@@ -8,14 +8,14 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mehitmannub>HÌ†MÄñ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Mehitmannub>𝙃𝙞𝙩𝙢𝙖𝙣 ᴛɢ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Mehitmannub>𝐌𝐚𝐧𝐢𝐬𝐡𝐚 𝐑𝐚𝐧𝐢</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Mehitmannub>𝑷𝒐𝒘𝒆𝒓</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/Mehitmannub>ι αм мσνιє мє∂ια ᴛɢ</a></b>"""
 
